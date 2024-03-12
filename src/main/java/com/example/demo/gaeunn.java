@@ -6,6 +6,7 @@ public class gaeunn {
 		// TODO Auto-generated method stub
 
 		// 안뇽뇽안 은아 바붕 
+		// 오잉
 	}
 
 }
